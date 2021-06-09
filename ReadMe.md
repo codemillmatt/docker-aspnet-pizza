@@ -2,7 +2,7 @@
 
 Microservice applications are composed of small, independently versioned, and scalable customer-focused services that communicate with each other over standard protocols with well-defined interfaces. Each microservice typically encapsulates simple business logic, which you can scale out or in, test, deploy, and manage independently.  Smaller teams develop a microservice based on a customer scenario and use any technologies that they want to use. This module will teach you how to build your first microservice with .NET.
 
-In order to run the code in this repo as a microservice, please complete the [Build your first microservice in .NET](https://docs.microsoft.com/learn/modules/dotnet-microservices).
+In order to run the code in this repo as a microservice, please complete the [Build your first microservice in .NET](https://docs.microsoft.com/learn/modules/dotnet-microservices?WT.mc_id=mobile-0000-masoucou).
 
 ### Steps to run
 
@@ -11,4 +11,4 @@ In order to run the code in this repo as a microservice, please complete the [Bu
 
 Along with the necessary Docker commands for building an image and running Docker compose as well.
 
-Check out the Learn module to find out all about [Building your first microservice in .NET](https://docs.microsoft.com/learn/modules/dotnet-microservices).
+Check out the Learn module to find out all about [Building your first microservice in .NET](https://docs.microsoft.com/learn/modules/dotnet-microservices?WT.mc_id=mobile-0000-masoucou).
